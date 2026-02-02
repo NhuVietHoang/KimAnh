@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "♥ Hoàng Kim Anh ♥",
-    introTitle: 'Gủi Iem, Bé, Vợ, Mình, Bạn Kim, Anh nhá :))',
+    introTitle: 'Gủi Iem, Bé, Vợ, Mình, Bạn Kim Anh nhá :))',
     introDesc: `Mới quen nhau hơn một tháng mà anh cứ có cảm giác như biết em từ... tháng trước rồi ií :)) 
 Tuy anh đẹp trai và cao nhưng được cái anh trưởng thành và chân thành với iem :))
 tuy mình gặp và quen có bị vội vàng kì cục :)) nhưng mà bây giờ đã vợ vợ chồng chồng roaiii, hứa yêu thương anh nháaa`,
